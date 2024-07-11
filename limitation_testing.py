@@ -71,5 +71,3 @@ if __name__ == "__main__":
     # Test with a wide range of input levels
     test_levels = np.arange(-20, 30, 0.5).tolist()
     print_test_results(test_levels)
-
-```
