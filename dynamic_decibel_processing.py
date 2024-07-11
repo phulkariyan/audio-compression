@@ -84,5 +84,3 @@ def print_test_results(test_levels):
 if __name__ == "__main__":
     test_levels = [-15, -10, -5, 0, 3, 6, 10, 15, 20, 25]
     print_test_results(test_levels)
-
-```
